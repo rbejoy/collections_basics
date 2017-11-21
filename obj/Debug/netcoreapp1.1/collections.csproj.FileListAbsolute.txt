@@ -1,0 +1,9 @@
+/Users/Renil/codingStuff/csharp/collections/bin/Debug/netcoreapp1.1/collections.deps.json
+/Users/Renil/codingStuff/csharp/collections/bin/Debug/netcoreapp1.1/collections.runtimeconfig.json
+/Users/Renil/codingStuff/csharp/collections/bin/Debug/netcoreapp1.1/collections.runtimeconfig.dev.json
+/Users/Renil/codingStuff/csharp/collections/bin/Debug/netcoreapp1.1/collections.dll
+/Users/Renil/codingStuff/csharp/collections/bin/Debug/netcoreapp1.1/collections.pdb
+/Users/Renil/codingStuff/csharp/collections/obj/Debug/netcoreapp1.1/collections.csproj.CoreCompileInputs.cache
+/Users/Renil/codingStuff/csharp/collections/obj/Debug/netcoreapp1.1/collections.AssemblyInfo.cs
+/Users/Renil/codingStuff/csharp/collections/obj/Debug/netcoreapp1.1/collections.dll
+/Users/Renil/codingStuff/csharp/collections/obj/Debug/netcoreapp1.1/collections.pdb
